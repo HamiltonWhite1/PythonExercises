@@ -1,3 +1,6 @@
 # PythonExercises
 
-###For loops commit to a repo of solved Python problems from Code Wars, Learn to Code By Solving Problems: A Python Primer, and Hacker Rank.
+This is a repo that I created to practice version control with Git and GitHub early on as I began to study code. As part of my graduation requirements from
+the Coding Temple bootcamp, this repository also serves to store the solutions for all of solved problems on Codewars.com
+
+In addition to storing Code Wars solutions, this repository has served as practiced for making new branches in git repositories.
